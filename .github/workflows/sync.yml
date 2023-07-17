@@ -1,4 +1,4 @@
-name: Sync tw
+name: Sync
 
 on:
   # schedule:
