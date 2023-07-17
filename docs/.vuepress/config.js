@@ -2,8 +2,9 @@ import { defineUserConfig, defaultTheme } from "vuepress";
 
 export default defineUserConfig({
   lang: "zh-TW",
-  title: "Oxidevs",
+  title: "OXIDEVS",
   description: "Oxidevs Home",
+  head: [["link", { rel: "icon", href: "/images/icon.ico" }]],
   theme: defaultTheme({
     navbar: [
       {
