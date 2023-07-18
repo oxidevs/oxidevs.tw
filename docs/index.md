@@ -6,4 +6,4 @@
 
 hi! test
 
-mainRed #CB3D31
+mainColor #0284c7 `bg-sky-600`
